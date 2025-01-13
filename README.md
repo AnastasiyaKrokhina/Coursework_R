@@ -3,9 +3,11 @@ Some examples of my code on R
 
 # EXPLORING PROTEIN POCKETS
 `rmsd_proteins.r`: This R script processes RMSD data to create a hierarchical clustering dendrogram that classifies and visualizes protein structural similarities, with colored branches based on predefined classifications.
+
 ![image](https://github.com/user-attachments/assets/fcdf8d1c-ba83-497b-9679-8ceac3f7c24e)
 
 `descriptors_proteins.r`: This R script performs hierarchical clustering and visualization of proteins or molecules based on their descriptors.
+
 ![image](https://github.com/user-attachments/assets/e40d9ee6-dedd-42ed-9e39-ba779a663d09)
 
 
